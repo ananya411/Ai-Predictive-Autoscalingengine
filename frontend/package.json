@@ -10,6 +10,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+<<<<<<< HEAD
     "@number-flow/react": "^0.5.11",
     "@radix-ui/react-dialog": "^1.1.15",
     "@radix-ui/react-dropdown-menu": "^2.1.16",
@@ -35,6 +36,10 @@
     "react-router-dom": "^7.13.0",
     "recharts": "^3.7.0",
     "tailwindcss": "^4.1.18"
+=======
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0"
+>>>>>>> e2c306382e3a9130ee83e6f7d8173456045fd3d0
   },
   "devDependencies": {
     "@eslint/js": "^9.39.1",
