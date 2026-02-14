@@ -12,18 +12,12 @@
   "license": "ISC",
   "dependencies": {
     "axios": "^1.13.4",
-<<<<<<< HEAD
     "bcryptjs": "^3.0.3",
     "cors": "^2.8.6",
     "dotenv": "^17.3.1",
     "express": "^5.2.1",
     "jsonwebtoken": "^9.0.3",
     "mongoose": "^9.2.1",
-=======
-    "cors": "^2.8.6",
-    "dotenv": "^17.2.3",
-    "express": "^5.2.1",
->>>>>>> e2c306382e3a9130ee83e6f7d8173456045fd3d0
     "systeminformation": "^5.30.7"
   },
   "devDependencies": {
