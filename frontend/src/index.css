@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+/* <<<<<<< HEAD
 @import "tailwindcss";
 =======
 :root {
@@ -69,4 +69,8 @@ button:focus-visible {
     background-color: #f9f9f9;
   }
 }
->>>>>>> e2c306382e3a9130ee83e6f7d8173456045fd3d0
+>>>>>>> e2c306382e3a9130ee83e6f7d8173456045fd3d0 */
+
+
+@import "tailwindcss";
+
